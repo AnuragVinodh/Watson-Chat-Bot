@@ -1,0 +1,50 @@
+html{	
+	height: 100%;
+}
+body{
+	background: #343a40;
+}
+
+.container{
+	height: 100%;
+	max-width: 500px;
+	margin : 200px auto;
+	max-width: 700px;
+}
+
+input{
+	border: 0px;
+	width: 100%;
+	padding: 1px;
+	width: 90%;
+}
+
+.enter{
+	padding : 1px;
+	height: 44px;
+}
+
+ul{
+	list-style-type: none;
+	padding: 0px;	
+	margin:0px;
+}
+li{
+	background: white;
+	width: 1=0%;
+	margin : 0px auto;
+	height: 5%;
+    /*margin :1%;*/
+    margin: 0px;
+}
+
+.backColor{
+	background: lightblue;
+	text-align:right;
+}
+
+button{
+	float: right;
+	padding-left:10px ;
+	padding-right:10px;
+}
